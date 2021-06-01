@@ -1,5 +1,5 @@
 # Villager Bot
-Bot I wrote around 12/2020 for me and a few friends. 
+A Discord bot I wrote around 12/2020 for me and a few friends. 
 
 Villager Bot makes playing minecraft multiplayer easier by requiring that a certain number of people must be online & playing. This stops people with more free time from 'grinding' and becoming far better than everyone else, ultimately ruining the server. 
 
