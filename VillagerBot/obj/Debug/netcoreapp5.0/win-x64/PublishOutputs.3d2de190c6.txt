@@ -1,0 +1,13 @@
+/Users/nickorlow/Downloads/DisBot/MinecraftDiscordBot.exe
+/Users/nickorlow/Downloads/DisBot/MinecraftDiscordBot.dll
+/Users/nickorlow/Downloads/DisBot/MinecraftDiscordBot.deps.json
+/Users/nickorlow/Downloads/DisBot/MinecraftDiscordBot.runtimeconfig.json
+/Users/nickorlow/Downloads/DisBot/MinecraftDiscordBot.pdb
+/Users/nickorlow/Downloads/DisBot/Discord.Net.Commands.dll
+/Users/nickorlow/Downloads/DisBot/Discord.Net.Core.dll
+/Users/nickorlow/Downloads/DisBot/Discord.Net.Rest.dll
+/Users/nickorlow/Downloads/DisBot/Discord.Net.Webhook.dll
+/Users/nickorlow/Downloads/DisBot/Discord.Net.WebSocket.dll
+/Users/nickorlow/Downloads/DisBot/Newtonsoft.Json.dll
+/Users/nickorlow/Downloads/DisBot/System.Interactive.Async.dll
+/Users/nickorlow/Downloads/DisBot/System.Linq.Async.dll
